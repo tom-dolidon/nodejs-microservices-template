@@ -57,7 +57,7 @@ PUT {{gateway_host}}/api/settings
 content-type: application/json
 x-ms-client-principal: {{client_principal}}
 
-{ "sides": 8 }
+{ "sides": 2 }
 
 ###
 
